@@ -3,16 +3,11 @@
 
 La EDICIÓN DEL COLOR, en Scribus, se realiza desde el menú Editar, seleccionando la opción "Colores".
 
-
-
 Aunque Scribus incorpora una paleta de colores estándar de la aplicación, como la mostrada en la siguiente imagen.
 
 ![](img/paletacoloresnuevodocumento.png)
 
-
 Apariencia de la paleta de colores estándar en Scribus.
-
-
 
 En la maquetación del cartel se usará una paleta de colores personalizada. Para crearla, se seleccionará el menú Editar, con la opción "Colores". 
 

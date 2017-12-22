@@ -48,6 +48,7 @@ La LEY DE LA BALANZA, consiste en situar en el eje de simetría el objeto que se
 
 
 ![](img/leybalanza.png)
+
 Ejemplo de composición basada en la Ley de la Balanza.
 
 
@@ -57,6 +58,7 @@ En la LEY DE COMPOSICIÓN DE MASAS el objeto destacado se desplaza del eje de si
 
 
 ![](img/composicionmasas.png)
+
 Muestra de composición con la Ley de Composición de Masas.
 
 

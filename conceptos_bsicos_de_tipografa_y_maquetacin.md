@@ -4,6 +4,7 @@
 El diseño de una MAQUETACIÓN VISUAL acertada precisa de un conjunto de decisiones que el maquetador deberá tomar de forma simultánea, e inequívoca. La concreción del formato, los márgenes, el tamaño de las cajas de textos, o el número y dimensiones de las columnas, y la definición de las características tipográficas que resulten legibles y coherentes con el diseño, es muy importante porque condicionarán la correcta jerarquía y legibilidad de la información que se va a trasmitir. Rob Carter (1999) expone algunas normas básicas, para conseguir una legibilidad eficaz de los textos.
 
 ![](img/TIPOGRAFIA.png)
+
 Letras por [Maialisa](https://pixabay.com/photo-1502369/) bajo licencia [CC0 Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
 
 

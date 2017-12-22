@@ -1,6 +1,10 @@
 
 # La comunicación visual
 
+![](/img/comunicar.png)
+
+[Geralt. Comunicación visual. (CC0)](https://pixabay.com/photo-1852499/)
+
 En la COMUNICACIÓN VISUAL se usan signos, e imágenes, para construir mensajes visuales, con el fin de comunicar. En el proceso de comunicación educativa visual, participan los elementos básicos que componen toda acción comunicativa, con sus rasgos propios:
 
 - Emisor: El docente, que emite el mensaje visual.

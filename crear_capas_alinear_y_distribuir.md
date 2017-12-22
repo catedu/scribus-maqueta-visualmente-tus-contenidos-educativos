@@ -23,6 +23,7 @@ Después, usaremos el icono de acceso rápido “Insertar línea” nos ayudará
 
 
 ![](img/insertarlinea.png)
+
 Icono de la herramienta Insertar línea en Scribus.
 
 
@@ -30,6 +31,7 @@ Icono de la herramienta Insertar línea en Scribus.
 Y haremos lo mismo con las líneas verticales, colocando una línea paralela sobre el límite izquierdo del formato, y otra paralela sobre el límite derecho del formato. Al finalizar, obtendremos un resultado similar a la siguiente imagen.
 
 ![](img/construccionreticula.png)
+
 Muestra de las posición de las líneas paralelas horizontales y verticales.
 
 

@@ -54,11 +54,11 @@ Para acabar de incorporar al documento las imágenes que compondrán el diseño 
 
 
 
-Caja de la imagen: “cuaderno.png”. Tamaño: 20%
+- Caja de la imagen: “cuaderno.png”. Tamaño: 20%
 
-Caja de la imagen: “alumno.png”. Tamaño: 30%
+- Caja de la imagen: “alumno.png”. Tamaño: 30%
 
-Caja de la imagen: “telefonomovil.png”. Tamaño: 20%
+- Caja de la imagen: “telefonomovil.png”. Tamaño: 20%
 
 
 
@@ -95,6 +95,7 @@ Icono para crear formas predeterminadas en Scribus.
 2. Formas Flechas
 
 ![](img/formasflechas.png)
+
 Icono para crear flechas en Scribus.
 
 
@@ -102,6 +103,7 @@ Icono para crear flechas en Scribus.
 3. Formas Diagramas de Flujo
 
 ![](img/formasdiagramasdeflujo.png)
+
 Icono para crear diagramas de flujo en Scribus.
 
 
@@ -109,6 +111,7 @@ Icono para crear diagramas de flujo en Scribus.
 4. Formas Puzzle
 
 ![](img/formaspuzzle.png)
+
 Icono para crear puzzles en Scribus.
 
 
@@ -116,6 +119,7 @@ Icono para crear puzzles en Scribus.
 5. Formas Especiales
 
 ![](img/formasespeciales.png)
+
 Icono para crear formas especiales en Scribus.
 
 

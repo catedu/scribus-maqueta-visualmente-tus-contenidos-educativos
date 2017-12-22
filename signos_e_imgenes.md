@@ -3,10 +3,19 @@
 
 En el lenguaje visual se utilizan SIGNOS e IMÁGENES. Un signo visual es cualquier cosa que representa a otra, a través del lenguaje visual. Ferdinand de Saussure (1857-1913) plantea la teoría del signo dual, representada en el siguiente esquema:
 
+![](/img/diagramateoriasigno.png)
+“Semáforo” por [Antonio Campos Ruiz](https://flic.kr/p/9ef3Qg) bajo licencia CC BY 2.0
+Semáforo por [OpenClipart-Vectors / 23750 images](https://pixabay.com/photo-148922/) bajo licencia CC0 Public Domain
+
 Charles Sanders Peirce (1839-1914) clasifica los signos en tres categorías, teniendo en cuenta el vínculo que tienen con sus referentes. Según esta clasificación, se pueden diferenciar tres tipos de signos: índices, iconos, y símbolos.
 
 Los signos de tipo índices tienen una relación con sus referentes de tipo física, con una relación de causa-efecto. Los signos de tipo iconos tienen una relación con los referentes de semejanza. Y los signos de tipo símbolos tienen una relación con sus referentes de arbitrariedad, establecida mediante una convención.
 
+![](/img/diagramatipossignos.png)
+
+“DSCN2020” por [Diego Sánchez Olmo](https://flic.kr/p/7z8Lj6) bajo licencia CC BY 2.0
+“Iconos opentype” por [Cristian Eslava](https://flic.kr/p/6zpotA) bajo licencia CC BY 2.0
+Símbolo reciclaje por [9355](https://pixabay.com/photo-57136/) bajo licencia CC0 Public Domain
 
 
 Una imagen es una unidad de representación, producida mediante el lenguaje visual. Las imágenes pueden tener un grado de iconicidad, o de mimetismo, con los objetos representados alto, se tratan de imágenes hiperrealistas, o figurativas. O pueden tener un nivel de iconicidad bajo, o de abstracción, son imágenes en las que predominan los rasgos subjetivos, y expresivos, frente a los componentes miméticos.
@@ -40,7 +49,7 @@ En las imágenes denotativas predominan los aspectos descriptivos, objetivos, e 
 
 Teniendo en cuenta el objetivo que persigue el uso de las imágenes, se pueden encontrar cuatro tipos de imágenes: 1. Imagen expresiva, 2. Imagen informativa, 3. Imagen persuasiva, 4. Imagen narrativa.
 
-![](esquematiposimagenes.png)
+![](/img/esquematiposimagenes.png)
 
 
 Avión por [Unsplash](https://pixabay.com/photo-1030855/) bajo licencia [CC0 Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)

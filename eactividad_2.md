@@ -32,5 +32,4 @@ Normas de obligado cumplimiento en clase.
 ![](img/cuaderno.png)
 ![](img/telefonomovil.png)
 
-- [ (Ventana nueva)]()
 

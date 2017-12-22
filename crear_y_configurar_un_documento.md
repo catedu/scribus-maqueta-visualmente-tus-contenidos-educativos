@@ -1,12 +1,7 @@
 
 # Crear y configurar un documento
 
-
-
-
-
 El primer paso para crear el cartel, es definir el formato del documento donde se maquetarán los textos e imágenes.
-
 
 
 Al abrir Scribus, en la primera ventana, aparecen las opciones de CONFIGURACIÓN DEL DOCUMENTO. En esta ventana, se pueden definir las propiedades del documento.
