@@ -30,3 +30,9 @@
 * [Crear una paleta personalizada de colores](crear_una_paleta_personalizada_de_colores.md)
 * [Concluir la maquetación del cartel](concluir_la_maquetacin_del_cartel.md)
 
+## Créditos
+
+* [Créditos](creditos.md)
+
+
+
