@@ -7,3 +7,4 @@ Los contenidos se distribuye bajo licencia Creative Commons tipo BY-NC-SA
 
 Cualquier observación o detección de error por favor aquí [soporte.catedu.es](http://soporte.catedu.es/)
 
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/catedulogo.png)
