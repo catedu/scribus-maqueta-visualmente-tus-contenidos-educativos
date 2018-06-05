@@ -4,11 +4,6 @@
 
 * {{ book.author }}
 
-### Colaboradores:
-
-{% for collaborator in book.collaborators %}
-* {{collaborator.name}} en {{collaborator.edited}}
-{% endfor %}
 
 ___
 
