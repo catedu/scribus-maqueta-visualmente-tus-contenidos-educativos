@@ -1,1 +1,43 @@
-{"plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors"], "language": "es", "variables": {"title": "Scribus: Maqueta visualmente tus contenidos educativos", "author": "Pilar Cano Lomba.", "collaborators": [{"name": ".", "edited": ""}]}, "pluginsConfig": {"image-captions": {"caption": "Imagen - _CAPTION_"}, "localized-footer": {"hline": true, "filename": "./FOOTER.md"}, "edit-link": {"base": "https://github.com/catedu/scribus-maqueta-visualmente-tus-contenidos-educativos/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "scribus-maqueta-visualmente-tus-contenidos-educativos"}}}
+{
+  "plugins": [
+    "youtube",
+    "accordion",
+    "image-captions",
+    "styled-blockquotes",
+    "localized-footer",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "language": "es",
+  "variables": {
+    "title": "Scribus: Maqueta visualmente tus contenidos educativos",
+    "author": "Pilar Cano Lomba.",
+    "collaborators": [
+      {
+        "name": ".",
+        "edited": ""
+      }
+    ]
+  },
+  "pluginsConfig": {
+    "image-captions": {
+      "caption": "Imagen - _CAPTION_"
+    },
+    "localized-footer": {
+      "hline": true,
+      "filename": "./FOOTER.md"
+    },
+    "edit-link": {
+      "base": "https://github.com/catedu/scribus-maqueta-visualmente-tus-contenidos-educativos/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "scribus-maqueta-visualmente-tus-contenidos-educativos"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  }
+}
